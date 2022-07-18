@@ -43,9 +43,9 @@ OODL was designed to allow devolopers to build **dynamic** web applications for 
 OODL is part of a three-tier based system.  
 
 
-### Beckend ###
+### Backend ###
 
-The beckend was developed by using the **Java Enterprise Edition 7** stack. The JAX-RS Api has been used to implement **REST Web Services** while the Java Persistence Api (**JPA**) and the ORM Hibernate have been used for persistency.   
+The backend was developed by using the **Java Enterprise Edition 7** stack. The JAX-RS Api has been used to implement **REST Web Services** while the Java Persistence Api (**JPA**) and the ORM Hibernate have been used for persistency.   
 
 
 ### Frontend ###
