@@ -1,6 +1,6 @@
 # README #
 
-**O**bject **O**riented **D**ata **L**anguage (**OODL**) is an imperative programming language i devoloped for my **Bacelor's Degree Thesis**. OODL is not open-source (yet?), this repo hosts only a demo.   
+**O**bject **O**riented **D**ata **L**anguage (**OODL**) is an imperative programming language I developed for my **Bacelor's Degree Thesis**. OODL is not open-source (yet?), this repo hosts only a demo.   
    
 OODL makes developing a web application for collecting data as easy as instantiating an object in any object oriented programmin language.   
     
@@ -9,7 +9,7 @@ The idea behind OODL is to think at the data collection process as a program to 
 
 ## OODL Characteristics ##
 
-OODL was designed to allow devolopers to build **dynamic** web applications for data collections (also very complex ones) which **execute client-side**.  
+OODL was designed to allow developers to build **dynamic** web applications for data collections (also very complex ones) which **execute client-side**.  
 
 * OODL is an **interpreted** language, written in **TypeScript**. It can run on any browser since it was developed by using the ecma-262 standard. OODL's interpreter recevices programs in JSON format.   
    
