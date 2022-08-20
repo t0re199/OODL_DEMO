@@ -2,7 +2,7 @@
 
 **O**bject **O**riented **D**ata **L**anguage (**OODL**) is an imperative programming language I developed for my **Bacelor's Degree Thesis**. OODL is not open-source (yet?), this repo hosts only a demo.   
    
-OODL makes developing a web application for collecting data as easy as instantiating an object in any object oriented programmin language.   
+OODL makes developing a web application for collecting data as easy as instantiating an object in any object oriented programming language.   
     
 The idea behind OODL is to think at the data collection process as a program to be implemented in some kind of language.   
 
